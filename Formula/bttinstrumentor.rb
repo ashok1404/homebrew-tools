@@ -5,10 +5,10 @@ class Bttinstrumentor < Formula
 
   if Hardware::CPU.arm?
     url "https://github.com/ashok1404/BTTInstrumentor/releases/download/1.0.0/BTTInstrumentor-arm64"
-    sha256 "PASTE_ARM64_SHA_HERE"
+    sha256 "449c3c47a6cf07466b6d799e5878b8c1fb98c91b61f3937cb94ba9c6a8a09e2b"
   else
     url "https://github.com/ashok1404/BTTInstrumentor/releases/download/1.0.0/BTTInstrumentor-x86_64"
-    sha256 "PASTE_X86_SHA_HERE"
+    sha256 "449c3c47a6cf07466b6d799e5878b8c1fb98c91b61f3937cb94ba9c6a8a09e2b"
   end
 
   def install
