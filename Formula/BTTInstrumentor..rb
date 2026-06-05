@@ -1,4 +1,4 @@
-class Bttinstrumentor < Formula
+class BTTInstrumentor < Formula
   desc "BlueTriangle SwiftUI automatic screen tracking instrumentor"
   homepage "https://www.bluetriangle.com"
   version "1.0.0"
