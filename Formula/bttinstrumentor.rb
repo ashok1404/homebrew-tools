@@ -4,7 +4,7 @@ class Bttinstrumentor < Formula
   version "1.0.0"
 
   url "https://github.com/ashok1404/BTTInstrumentor/releases/download/1.0.0/BTTInstrumentor"
-  sha256 "820c72e5408f73777fa26aed186001327b5aa86ba0aed506ed3a7f4434591885"
+  sha256 "2d803b965493d5a818d4b017d109c9f95df027eb0277cb1a6665519bc72cce03"
 
   def install
     bin.install "BTTInstrumentor"
